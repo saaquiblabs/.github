@@ -50,7 +50,7 @@
   <tr>
     <td align="center"><img src="img/curtain.png" width="56" height="56" alt=""></td>
     <td>
-      <b><a href="https://github.com/saaquiblabs/curtain">Curtain</a></b> · macOS · early<br>
+      <b><a href="https://curtain.saaquiblabs.com">Curtain</a></b> · macOS · early · <a href="https://github.com/saaquiblabs/curtain">repo</a><br>
       Brightness for every screen, and a curtain to switch any of them off. A menu bar app.
     </td>
   </tr>
